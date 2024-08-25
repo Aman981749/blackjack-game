@@ -1,0 +1,1 @@
+pure js beginner project of blackjack game
